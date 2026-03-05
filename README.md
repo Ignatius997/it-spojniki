@@ -1,5 +1,6 @@
 # Witam
-# a
+a
   - giocare a + sport, p.e. giocare a calcio
-# con
+
+con
   - giocare con il computer
