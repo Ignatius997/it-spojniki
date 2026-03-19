@@ -14,20 +14,20 @@ giocare
 
 andare
   - a
-    - + posto (con art.det.)
+    - \+ posto (con art.det.)
       - vado al cinema
       - vado al lavoro
       - vado al ristorante
-    - + infinito (senza art.det.)
+    - \+ infinito (senza art.det.)
       - andiamo a mangiare
       - vado a giocare a palla
   - in (senza art.det.)
-    - + mezzo di trasporto
+    - \+ mezzo di trasporto
       - vado in bicicletta
       - vado in macchina
       - vado in nave
       - vado in metropolitana
-    - + posto
+    - \+ posto
       - vado in piscina
       - vado in palestra
       - vado in ufficio
