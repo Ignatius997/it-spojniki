@@ -6,14 +6,14 @@ art.det. = articolo determinativo
 
 TODO Wyjaśnij różnicę między andare al cinema i andare in piscina
 
-giocare
-  - a + sport (senza art.det.)
+**giocare**
+  - _a_ + sport (senza art.det.)
     - gioco a calcio
     - gioco a tennis
-  - con il computer
+  - _con_ il computer
 
-andare
-  - a
+**andare**
+  - _a_
     - \+ posto (con art.det.)
       - vado al cinema
       - vado al lavoro
@@ -21,7 +21,7 @@ andare
     - \+ infinito (senza art.det.)
       - andiamo a mangiare
       - vado a giocare a palla
-  - in (senza art.det.)
+  - _in_ (senza art.det.)
     - \+ mezzo di trasporto
       - vado in bicicletta
       - vado in macchina
@@ -32,7 +32,7 @@ andare
       - vado in palestra
       - vado in ufficio
 
-fare
+**fare**
   - la spessa
   - una passegiata
 
