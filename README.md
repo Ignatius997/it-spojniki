@@ -6,13 +6,13 @@ art.det. = articolo determinativo
 
 TODO Wyjaśnij różnicę między andare al cinema i andare in piscina
 
-**giocare**
+### giocare
   - _a_ + sport (senza art.det.)
     - gioco a calcio
     - gioco a tennis
   - _con_ il computer
 
-**andare**
+### andare
   - _a_
     - \+ posto (con art.det.)
       - vado al cinema
@@ -32,7 +32,7 @@ TODO Wyjaśnij różnicę między andare al cinema i andare in piscina
       - vado in palestra
       - vado in ufficio
 
-**fare**
+### fare
   - la spessa
   - una passegiata
 
